@@ -7,3 +7,5 @@ Tasks:
 - Implement AI;
 - Optimize graphics for mobile devices;
 - Implement UI for Vr;
+- To work out the structure of the code, for further updates of the project and the development of functionality;
+- Develop control mechanics both for playing with a joystick, there and without;
